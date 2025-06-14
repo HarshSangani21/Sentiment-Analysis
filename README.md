@@ -24,7 +24,7 @@ This project implements a sentiment analysis application using Streamlit, analyz
 ## Usage
 Run the Streamlit application:
 ```
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 ## Contributing
